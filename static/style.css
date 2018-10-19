@@ -1,0 +1,33 @@
+.error{
+    color: red;
+}
+
+ul li{
+    list-style: none;
+    margin-top: 5px;
+}
+
+label {
+    margin-right: 10px;
+    width: 110px;
+    float: left;
+}
+
+input{
+    margin-right: 5px;
+}
+
+
+.btnBlue{
+	margin: 10px 10px;
+	font-weight: bold;
+    padding: 5px 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #058BA9;
+    background-image: linear-gradient(to bottom, #92CDDB, #058BA9);
+    border: 1px solid #058BA9;
+    box-shadow: 1px 1px 0 #9DDDED inset;
+    text-shadow: 1px -1px 0 #333333;
+}
